@@ -1,0 +1,47 @@
+[
+    {
+        "asdasdasd":{
+            "id": 0,
+            "name": "Abc Urgent Care",
+            "type": "Physician",
+            "schedule":[
+                "09:00 AM EST",
+                "10:00 AM EST",
+                "11:00 AM EST",
+                "12:00 AM EST",
+                "01:00 PM EST",
+                "02:00 PM EST",
+                "03:00 PM EST",
+                "04:00 PM EST",
+                "05:00 PM EST",
+                "06:00 PM EST"
+            ],
+            "lat": 24.867182,
+            "lon": 67.084069,
+            "contact": 3122956317
+        }
+    },
+    {
+        "qweqweqweqweq":{
+            "id": 1,
+            "name": "Dr. Ali",
+            "type": "Physician",
+            "schedule":[
+                "09:00 AM EST",
+                "10:00 AM EST",
+                "11:00 AM EST",
+                "12:00 AM EST",
+                "01:00 PM EST",
+                "02:00 PM EST",
+                "03:00 PM EST",
+                "04:00 PM EST",
+                "05:00 PM EST",
+                "06:00 PM EST"
+            ],
+            "lat": 24.890859,
+            "lon": 67.074111,
+            "contact": 3352072155
+        }
+    }
+
+]
